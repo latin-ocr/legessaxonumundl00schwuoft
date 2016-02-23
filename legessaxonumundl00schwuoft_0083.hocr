@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./legessaxonumundl00schwuoft_0083.png"; bbox 0 0 2164 3424; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 737 1354 1585 1664">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 735 1352 1585 1664">
+     <span class='ocr_line' id='line_1_1' title="bbox 739 1354 1585 1455; baseline 0.006 -4.976"><span class='ocrx_word' id='word_1_1' title='bbox 739 1393 816 1450; x_wconf 83' lang='lat' dir='ltr'>nn</span> <span class='ocrx_word' id='word_1_2' title='bbox 858 1392 937 1451; x_wconf 88' lang='lat'>87</span> <span class='ocrx_word' id='word_1_3' title='bbox 988 1393 1138 1453; x_wconf 65' lang='lat' dir='ltr'>,w</span> <span class='ocrx_word' id='word_1_4' title='bbox 1185 1393 1335 1453; x_wconf 82' lang='lat'>1918</span> <span class='ocrx_word' id='word_1_5' title='bbox 1380 1395 1496 1455; x_wconf 76' lang='lat' dir='ltr'>smc</span> <span class='ocrx_word' id='word_1_6' title='bbox 1582 1354 1585 1355; x_wconf 4' lang='grc' dir='ltr'><em>ἢ</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 739 1462 1202 1521; baseline 0 -1"><span class='ocrx_word' id='word_1_7' title='bbox 739 1462 852 1520; x_wconf 75' lang='lat' dir='ltr'>Lex</span> <span class='ocrx_word' id='word_1_8' title='bbox 899 1462 1202 1521; x_wconf 78' lang='lat' dir='ltr'>Saxonum.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 737 1528 1572 1664; baseline 0.001 -11"><span class='ocrx_word' id='word_1_9' title='bbox 737 1528 1256 1664; x_wconf 48' lang='lat' dir='ltr'>ssssfffffngessssssum</span> <span class='ocrx_word' id='word_1_10' title='bbox 1303 1529 1415 1588; x_wconf 49' lang='grc' dir='ltr'>[Μ</span> <span class='ocrx_word' id='word_1_11' title='bbox 1460 1530 1572 1589; x_wconf 47' lang='grc' dir='ltr'>[ΘΧ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 574 832 2004 2736">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 574 832 2004 2736">
+     <span class='ocr_line' id='line_1_4' title="bbox 574 832 2004 2736; baseline 0 0"><span class='ocrx_word' id='word_1_12' title='bbox 574 832 2004 2736; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
